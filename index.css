@@ -2,7 +2,10 @@
 
 
 /*This is an id*/
-#nav{}
+#nav{
+  text-align: center;
+  background-color: lightblue;
+}
 
 /* this is a class*/
 
